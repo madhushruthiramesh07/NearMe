@@ -204,17 +204,11 @@ high_court.html
 ## OUTPUT
 
 ![alt text](map.html.png)
-
-![alt text](beach.html.png)
-
-![alt text](chennai_port.html.png)
-
-![alt text](fortst_george.html-1.png)
-
-![alt text](kandhakottam.html.png)
-
-![alt text](high_court.html-1.png)
-
+<img width="1909" height="1017" alt="beach html" src="https://github.com/user-attachments/assets/80055d6d-c1b0-481d-ba92-f60f375a15ed" />
+<img width="1910" height="1021" alt="chennai_port html" src="https://github.com/user-attachments/assets/af5b6eb2-52f0-485c-81d6-aedb8e4beed4" />
+<img width="1915" height="1020" alt="high_court html" src="https://github.com/user-attachments/assets/364132d6-5ef5-4125-af7a-b25f17022431" />
+<img width="1910" height="1019" alt="kandhakottam html" src="https://github.com/user-attachments/assets/775b8d2e-0a78-4b05-8f1f-f88082d2e6a8" />
+<img width="1915" height="1017" alt="fortst_george html" src="https://github.com/user-attachments/assets/b970e408-fb4c-4e6c-a66b-5e6bca5cd15c" />
 
 
 
