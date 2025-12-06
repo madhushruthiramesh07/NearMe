@@ -39,8 +39,7 @@ map.html
     <body>
         <h1 align="center"><font color="red">Chennai-Parrys</font></h1>
         <h2 align="center">Madhu shruthi.A.R (25008368)</h2>
-        <img src="Screenshot 2025-11-29 091231.png" usemap="#image-map">
-
+        <img src="map.html.png" style ="display:block; margin:auto" usemap="#image-map" alt="Chennai Map">
 
 <map name="image-map">
     <area target="" alt="FORT ST. GEORGE" title="FORT ST. GEORGE" href="fortst_george.html" coords="956,805,1191,890" shape="rect">
@@ -201,7 +200,10 @@ high_court.html
 ```
 
 ## OUTPUT
-![alt text](map_ss.png)
+
+
+![alt text](mapapp/static/map.png)
+
 
 ![alt text](fortst_george.html-1.png)
 
