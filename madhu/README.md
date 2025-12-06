@@ -201,7 +201,8 @@ high_court.html
 
 ## OUTPUT
 
-![alt text](map.png)
+![alt text](../map.png)
+
 
 ![alt text](fortst_george.html-1.png)
 
