@@ -203,8 +203,7 @@ high_court.html
 ## OUTPUT
 
 ![alt text](../map_ss.png)
-
-
+gt
 ![alt text](fortst_george.html-1.png)
 
 ![alt text](beach.html-1.png)
