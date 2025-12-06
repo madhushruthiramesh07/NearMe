@@ -201,7 +201,9 @@ high_court.html
 ```
 
 ## OUTPUT
-![alt text](<../Screenshot 2025-12-06 132640.png>)
+
+![alt text](../map_ss.png)
+
 
 ![alt text](fortst_george.html-1.png)
 
