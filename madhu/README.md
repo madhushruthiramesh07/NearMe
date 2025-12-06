@@ -52,9 +52,7 @@ map.html
         
     </body>
 </html>
-```
 
-```
 beach.html
 
 <html>
@@ -83,9 +81,6 @@ beach.html
     </body>
 </html>
 
-```
-
-```
 chennai_port.html
 
 <html>
@@ -119,9 +114,7 @@ chennai_port.html
 
     </body>
 </html> 
-```
 
-```
 fortst_george.html
 
 <html>
@@ -149,9 +142,6 @@ fortst_george.html
     </body>
 </html>
 
-```
-
-```
 kandhakottam.html
 
 <html>
@@ -178,9 +168,6 @@ kandhakottam.html
   </body>
 </html>
 
-```
-
-```
 high_court.html
 
 <html>
