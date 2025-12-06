@@ -201,18 +201,19 @@ high_court.html
 ```
 
 ## OUTPUT
-
-![alt text](map.html.png)
-
-![alt text](beach.html.png)
-
-![alt text](chennai_port.html.png)
+![alt text](<../Screenshot 2025-12-06 132640.png>)
 
 ![alt text](fortst_george.html-1.png)
+
+![alt text](beach.html-1.png)
+
+![alt text](chennai_port.html-1.png)
 
 ![alt text](kandhakottam.html.png)
 
 ![alt text](high_court.html-1.png)
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
